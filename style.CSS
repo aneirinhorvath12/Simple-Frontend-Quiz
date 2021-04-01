@@ -49,3 +49,7 @@ h1 {
 h3 {
   font-size: 28px;
 }
+
+#Question_1_Answer {
+  visibility: hidden;
+}
