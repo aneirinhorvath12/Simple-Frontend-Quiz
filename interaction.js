@@ -10,7 +10,7 @@ lionButton.addEventListener('click', wrong);
 whaleButton.addEventListener('click', correct);
 
 function wrong () {
-  qOneAnswer.innerHTML = 'pussy';
+  qOneAnswer.innerHTML = 'Incorrect';
   qOneAnswer.style.visibility = 'visible';
 }
 
